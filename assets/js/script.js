@@ -401,9 +401,9 @@ $(function () {
 
 
 //loading
-    $(window).on("load", function() {
-        $('#loading_before').delay(5000).fadeOut('slow');
-});
+    //$(window).on("load", function() {
+        //$('#loading_before').delay(5000).fadeOut('slow');
+//});
 
 
 $('.custom-fur-slider-js').slick({
